@@ -1,4 +1,4 @@
-# DIO_Santander_Cibersegurança_2025
+# DIO_Santander_Ciberseguranca_2025
 
 Simulação de ataque de brute-force de senhas usando Medusa em um ambiente intencionalmente vulnerável.
 Neste projeto montamos duas máquinas virtuais no VirtualBox:
